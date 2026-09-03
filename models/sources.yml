@@ -6,5 +6,5 @@ sources:
     schema: demo_schema
     tables:
       - name: bike
-      - name: weather
+      - name: weather_table
      
